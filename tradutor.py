@@ -1,4 +1,4 @@
-from tkinter import Tk, Label, Button, Text, Scrollbar, filedialog, messagebox
+from tkinter import Tk, Label, Button, Text, Scrollbar, filedialog, messagebox, END
 from deep_translator import GoogleTranslator
 
 # Função para traduzir texto simples
